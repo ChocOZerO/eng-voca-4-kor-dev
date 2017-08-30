@@ -5,3 +5,4 @@
 + abort : 유산하다, 낙태하다 -> git 에서 git merge --abort 명령어로  merge를 취소하는 용도로 사용.
 + JWT : JSON Web Token
 + assert : 테스트 코드에서 많이 볼 수 있다. 단어의 의미는 "어떤 내용 혹은 결과를 보증한다" 라는 의미를 나타내는 것 같다.
++ clause : ~절 (예시: if 절, try 절), "~구문"으로 생각해도 될 것 같다.
