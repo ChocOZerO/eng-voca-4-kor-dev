@@ -13,3 +13,5 @@
 + vertext : 도형의 꼭지점(2차원, 3차원 모두 해당)
 + polygon : 다각형
 + mandatory : 법이나 룰에 의해 요구되는 (필수적인 느낌)
++ authentication : the process or action of proving or showing something to be true, genuine, or valid.( 로그인 및 접근 하는 사람이 누구인지 확인(인증) 하는 과정 )
++ Authorization : the action or fact of authorizing or being authorized.( 인증이 완료된 계정이 특정 자원에 권한이 있는지 확인하는 과정 )
