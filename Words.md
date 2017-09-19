@@ -15,3 +15,7 @@
 + mandatory : 법이나 룰에 의해 요구되는 (필수적인 느낌)
 + authentication : the process or action of proving or showing something to be true, genuine, or valid.( 로그인 및 접근 하는 사람이 누구인지 확인(인증) 하는 과정 )
 + Authorization : the action or fact of authorizing or being authorized.( 인증이 완료된 계정이 특정 자원에 권한이 있는지 확인하는 과정 )
+
+---
++ Pure function : (순수함수) - 외부에 아무런 영향을 미치지 않는 함수.
++ High-order function : (고계함수) - 함수를 또 하나의 값으로 간주하여 함수의 인자 혹은 반환값으로 사용할 수 있는 함수.(함수형 프로그래밍에서 중요한 개념)
