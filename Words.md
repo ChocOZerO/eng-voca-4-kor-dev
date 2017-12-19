@@ -27,3 +27,10 @@
 + infix : 중위 연산자 / prefix : 전위 연산자 / postfix : 후위 연산자
 + associativity : 연산자 결합방향
 + precedence : 우선순위
+
+---
++ clarity : 명쾌함. 깨끗하고 맑음.
++ legible : 읽기 쉬운
++ lucid : 맑은, 빛나는, 뚜렷한
++ adornment : 장식
++ subtle : 세밀한
